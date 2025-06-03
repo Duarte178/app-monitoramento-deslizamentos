@@ -23,3 +23,6 @@ Este projeto é um aplicativo mobile desenvolvido em React Native com Expo, que 
 1. Instale as dependências do projeto:
    ```bash
    npm install
+2. Inicie o projeto com o Expo:
+   npx expo start
+3. Utilize o Expo Go no seu celular para escanear o QR Code, rode em um emulador Android/iOS ou abra no navegador (web).   
